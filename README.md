@@ -251,7 +251,7 @@ Request a quota increase at [console.cloud.google.com/iam-admin/quotas](https://
 
 ## License
 
-MIT — do whatever you want with it.
+All rights reserved. See [LICENSE](LICENSE).
 
 ## Contributing
 
