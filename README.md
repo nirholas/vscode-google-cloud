@@ -22,8 +22,8 @@ GitHub Codespaces limits you to 2 concurrent instances. With Google Cloud, you c
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/gcp-vscode.git
-cd gcp-vscode
+git clone https://github.com/nirholas/vscode-google-cloud.git
+cd vscode-google-cloud
 
 # Make executable
 chmod +x gcp-vscode.sh
