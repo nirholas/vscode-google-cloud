@@ -262,3 +262,7 @@ PRs welcome! Ideas for improvements:
 - [ ] Multi-user support with individual passwords
 - [ ] Tailscale integration for private access
 - [ ] Snapshot/restore for VM state
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/vscode-google-cloud&type=Date)](https://www.star-history.com/#nirholas/vscode-google-cloud&Date)
