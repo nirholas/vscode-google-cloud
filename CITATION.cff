@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "vscode-google-cloud"
+abstract: "Run unlimited VS Code instances in your browser using Google Cloud. One script, full dev environment, no Codespaces limits."
+repository-code: "https://github.com/nirholas/vscode-google-cloud"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

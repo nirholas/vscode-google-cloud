@@ -1,5 +1,10 @@
 # ☁️ GCP VS Code
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/vscode-google-cloud?style=flat&logo=github)](https://github.com/nirholas/vscode-google-cloud/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/vscode-google-cloud?style=flat)](https://github.com/nirholas/vscode-google-cloud/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/vscode-google-cloud/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 **Run unlimited VS Code instances in your browser using Google Cloud.**
 
 GitHub Codespaces limits you to 2 concurrent instances. With Google Cloud, you can run as many as you want — each one a full VS Code environment with its own terminal, filesystem, Docker, and dev tools.
@@ -266,3 +271,26 @@ PRs welcome! Ideas for improvements:
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/vscode-google-cloud&type=Date)](https://www.star-history.com/#nirholas/vscode-google-cloud&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If vscode-google-cloud saves you time, **[star it on GitHub](https://github.com/nirholas/vscode-google-cloud)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=vscode-google-cloud%3A%20Run%20unlimited%20VS%20Code%20instances%20in%20your%20browser%20using%20Google%20Cloud&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fvscode-google-cloud) · [Share on Bluesky](https://bsky.app/intent/compose?text=vscode-google-cloud%3A%20Run%20unlimited%20VS%20Code%20instances%20in%20your%20browser%20using%20Google%20Cloud%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fvscode-google-cloud) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fvscode-google-cloud) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fvscode-google-cloud&t=vscode-google-cloud%3A%20Run%20unlimited%20VS%20Code%20instances%20in%20your%20browser%20using%20Google%20Cloud) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fvscode-google-cloud&title=vscode-google-cloud%3A%20Run%20unlimited%20VS%20Code%20instances%20in%20your%20browser%20using%20Google%20Cloud)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/vscode-google-cloud` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/vscode-google-cloud/issues) or [start a discussion](https://github.com/nirholas/vscode-google-cloud/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/vscode-google-cloud)](https://github.com/nirholas/vscode-google-cloud/graphs/contributors)
+
+<!-- /three.ws:growth -->

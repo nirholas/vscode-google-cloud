@@ -1,0 +1,28 @@
+# vscode-google-cloud
+
+> Run unlimited VS Code instances in your browser using Google Cloud. One script, full dev environment, no Codespaces limits.
+
+vscode-google-cloud is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/README.md): install, usage and reference
+- [Why?](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/README.md#why)
+- [Quick Start](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/README.md#quick-start)
+- [What You Get](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/README.md#what-you-get)
+- [Commands](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/README.md#commands)
+- [Configuration](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/README.md#configuration)
+- [Machine Types & Pricing](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/README.md#machine-types-pricing)
+- [Zones](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/README.md#zones)
+- [Examples](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/README.md#examples)
+- [AGENTS.md](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/vscode-google-cloud/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/vscode-google-cloud)
+- [Issues](https://github.com/nirholas/vscode-google-cloud/issues)
+- [Discussions](https://github.com/nirholas/vscode-google-cloud/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
