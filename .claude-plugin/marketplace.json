@@ -1,0 +1,21 @@
+{
+  "name": "vscode-google-cloud",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Create and manage browser-based VS Code (code-server) VMs on Google Compute Engine with one shell script.",
+  "plugins": [
+    {
+      "name": "gcp-code-server",
+      "source": "./plugins/gcp-code-server",
+      "description": "Create and manage browser-based VS Code (code-server) VMs on Google Compute Engine with one shell script.",
+      "category": "automation",
+      "tags": [
+        "gcp",
+        "code-server",
+        "vscode",
+        "devops"
+      ]
+    }
+  ]
+}
