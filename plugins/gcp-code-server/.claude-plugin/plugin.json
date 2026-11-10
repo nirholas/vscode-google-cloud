@@ -1,0 +1,18 @@
+{
+  "name": "gcp-code-server",
+  "version": "0.1.0",
+  "description": "Create and manage browser-based VS Code (code-server) VMs on Google Compute Engine with one shell script.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/vscode-google-cloud",
+  "homepage": "https://github.com/nirholas/vscode-google-cloud",
+  "keywords": [
+    "gcp",
+    "google-cloud",
+    "code-server",
+    "vscode",
+    "cloud-ide",
+    "remote-development"
+  ]
+}
